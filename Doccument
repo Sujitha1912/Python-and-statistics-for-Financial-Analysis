@@ -1,0 +1,11 @@
+Python and statistics for Financial Analysis
+The objective of this project is to 
+  1)Build Models to predict return and evaluate risk in financial industry.
+  2)Build a trading strategy
+  3)visualizing & munging stock data
+
+Esseantial python packages for this project are:
+  1)pandas
+  2)Numpy
+  3)Matplotlib
+  4)statesmodels
